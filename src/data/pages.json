@@ -1,0 +1,43 @@
+{
+    "pathname": [
+        "/", "/about/", "/services/", "/catalog/", "/contacts/", "/reviews/"
+    ],
+    "content": [
+        {
+        "title": "Главная страница",
+        "header": "Добро пожаловать",
+        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At velit quidem nesciunt molestias quae nulla, temporibus tenetur tempore cum, amet ullam odit reprehenderit, alias consequuntur numquam magni eum doloremque dolorem.</p>",
+        "menu": "Главная"
+        },
+        {
+        "title": "О компании",
+        "header": "История нашей компании",
+        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi saepe fuga repudiandae eveniet, fugit reiciendis autem sint, laborum possimus a veritatis dolorem illum, animi iusto recusandae! Totam consequuntur quod ipsa?</p>",
+        "menu": "О нас"
+        },
+        {
+        "title": "Услуги",
+        "header": "Оказываемые услуги",
+        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore dolores quas eos repellendus sequi nisi exercitationem, repudiandae est sint consequuntur, facere doloribus amet praesentium itaque, consectetur. Officiis qui suscipit quos.</p>",
+        "menu": "Услуги"
+        },
+        {
+        "title": "Каталог товаров",
+        "header": "Каталог товаров",
+        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, labore, quidem! Omnis nobis illum repudiandae distinctio, amet. Doloremque, nam dignissimos in voluptatem harum autem, qui voluptas, similique nihil ad error.</p>",
+        "menu": "Каталог"
+        },
+        {
+        "title": "Контактная информация",
+        "header": "Адреса и телефоны",
+        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At, reprehenderit nam libero totam ipsam, nihil impedit quam inventore. Temporibus enim dicta, omnis modi. Tempore ut esse, sunt harum facilis magnam.</p>",
+        "menu": "Контакты"
+        },
+        {
+        "title": "Отзывы",
+        "header": "Наши отзывы",
+        "content": "<p><img style=\"float: left\" src=\"https://via.placeholder.com/200\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At, reprehenderit nam libero totam ipsam, nihil impedit quam inventore. Temporibus enim dicta, omnis modi. Tempore ut esse, sunt harum facilis magnam.</p>",
+        "menu": "Отзывы"
+        }
+    ]
+}
